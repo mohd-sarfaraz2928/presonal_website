@@ -1,0 +1,49 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+h1 {
+    color: #66bfbf;
+    font-size: 2.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+ h2{
+    color: #66bfbf;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.middle-container{
+    margin: 100px 0px;  
+}
+.my-profile img {
+    border-radius: 50%;
+    width: 200px;
+}
+.intro{
+    width: 500px;
+    font-size: x-large;
+    font-family: "Dancing Script", cursive;
+    margin: auto;
+}
